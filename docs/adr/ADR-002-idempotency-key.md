@@ -1,7 +1,7 @@
 # ADR-002: Require an idempotency key for payment creation
 
 - Status: Accepted
-- Jira: <actual Jira key 3>
+- Jira: PPAY-6
 - Service: payments
 - Code: internal/payments/idempotency.go
 - Slack: #decisions
