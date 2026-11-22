@@ -1,7 +1,7 @@
 # ADR-001: Bound retries for temporary gateway failures
 
 - Status: Accepted
-- Jira: <actual Jira key 2>
+- Jira: PPAY-5
 - Services: payments, gateway
 - Code: internal/payments/retry.go; internal/http/charge.go
 - Slack: #incident
